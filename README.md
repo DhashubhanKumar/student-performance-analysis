@@ -65,7 +65,9 @@ This chart illustrates how the total aggregate marks are distributed proportiona
 ## ⚙️ How to Run the Project
 
 ### Prerequisites
-You need a working Python installation (`3.6+` is recommended) and the following libraries:
+You need a working Python installation (`3.6+` is recommended) and the following libraries and then run the script:
 
 ```bash
 pip install pandas numpy matplotlib
+python analysis.py
+
